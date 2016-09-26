@@ -16,7 +16,7 @@
 		, "source": "http://github.com/gourmet/dashboard"
 	}
 	, "require": {
-		"cakephp/cakephp": "3.0.*-dev"
+		"cakephp/cakephp": "~3.0"
 		, "kriswallsmith/assetic": "~1.1"
 		, "leafo/scssphp": "~0.1"
 	}
